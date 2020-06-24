@@ -51,3 +51,7 @@ A curated list of robotics companies
 | [InOrbit](https://www.inorbit.ai/) | cloud service |
 | [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) | cloud service, education |
 | [dishcraft](https://dishcraft.com/) |
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
