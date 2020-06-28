@@ -34,9 +34,9 @@ A curated list of robotics companies
 | [KNIGHTSCOPE](https://invest.knightscope.com) | security, mobile |
 | [LOWE'S INNOVATION LABS](https://www.lowesinnovationlabs.com/robotics) | retail, mobile |
 | [fellowai](https://www.fellowai.com/) | retail, mobile |
-| [Boston Dynamics](https://www.bostondynamics.com/) |
+| [Boston Dynamics](https://www.bostondynamics.com/) | legged, humanoid |
 | [AIRWARE](https://www.airware.com/) | roof inspection, drone |
-| [PIAGGIO FAST FORWARD](https://www.piaggiofastforward.com/) |
+| [PIAGGIO FAST FORWARD](https://www.piaggiofastforward.com/) | personal, mobile (outdoor) |
 | [Starship technology](https://www.starship.xyz/) | delivery, mobile (outdoor) |
 | [marble](https://www.marble.io/) | delivery, mobile (outdoor) |
 | [Postmates Serve](https://serve.postmates.com/) | delivery, mobile (outdoor) |
