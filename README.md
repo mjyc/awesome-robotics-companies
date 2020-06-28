@@ -19,28 +19,31 @@ A curated list of robotics companies
 | [IAMROBOTICS](https://www.iamrobotics.com/) | logistics, mobile manipulator |
 | [IRON OX](https://ironox.com/) | agriculture, mobile manipulator |
 | [Diligent Robotics](https://diligentrobots.com/) | hospital, mobile manipulator |
-| BLUE RIVER TECHNOLOGY http://www.bluerivertechnology.com/) | agriculture |
+| [BLUE RIVER TECHNOLOGY](http://www.bluerivertechnology.com/) | agriculture |
 | [AGROBOT](https://www.agrobot.com/) | agriculture |
 | [TERRACLEAR](https://www.terraclear.com/) | agriculture |
 | [Dusty Robotics](https://www.dustyrobotics.com/) | construction, mobile |
 | [simbe](https://www.simberobotics.com/) | retail, mobile |
 | [bossanova](https://www.bossanova.com/) | retail, mobile |
-| [COBALT](https://cobaltrobotics.com | security, mobile |
-| Catalina Health http://www.cataliahealth.com/) | eldercare |
+| [COBALT](https://cobaltrobotics.com) | security, mobile |
+| [Catalina Health](http://www.cataliahealth.com/) | eldercare |
 | [pilohealth](https://pillohealth.com/) | pharmacy |
 | [No Isolation](https://www.noisolation.com/global/) | mental health |
 | [Skydio](https://www.skydio.com/) | filming, drone |
 | [wonder workshop](https://www.makewonder.com/) | education, toy |
-| [KNIGHTSCOPE](https://invest.knightscope.com | security, mobile |
-| [LOWE'S INNOVATION LABS](https://www.lowesinnovationlabs.com/robotics | retail, mobile |
+| [KNIGHTSCOPE](https://invest.knightscope.com) | security, mobile |
+| [LOWE'S INNOVATION LABS](https://www.lowesinnovationlabs.com/robotics) | retail, mobile |
 | [fellowai](https://www.fellowai.com/) | retail, mobile |
 | [Boston Dynamics](https://www.bostondynamics.com/) |
 | [AIRWARE](https://www.airware.com/) | roof inspection, drone |
 | [PIAGGIO FAST FORWARD](https://www.piaggiofastforward.com/) |
-| Amazon Robotics, Scout, Sidewalk Package Delivery |
-| Amazon Robotics, Warehouse, Manipulator |
-| Amazon Robotics, Drone, Air Delivery |
-| Amazon Robotics, Warehouse, Kiva |
+| [Starship technology](https://www.starship.xyz/) | delivery, mobile (outdoor) |
+| [marble](https://www.marble.io/) | delivery, mobile (outdoor) |
+| [Postmates Serve](https://serve.postmates.com/) | delivery, mobile (outdoor) |
+| Amazon Robotics, Scout, Sidewalk Package Delivery | delivery, mobile (outdoor) |
+| Amazon Robotics, Warehouse, Manipulator | logistics, mobile manipulator |
+| Amazon Robotics, Drone, Air Delivery | delivery, drone |
+| Amazon Robotics, Warehouse, Kiva | delivery, mobile (outdoor) |
 | [Formant](https://formant.io/) | cloud service |
 | [RosHub](https://roshub.io/) | cloud service |
 | [Freedom robotics](https://www.freedomrobotics.ai/) | cloud service |
@@ -50,7 +53,7 @@ A curated list of robotics companies
 | [SEMIO](https://semio.ai/) | entertainment, interactive robots |
 | [InOrbit](https://www.inorbit.ai/) | cloud service |
 | [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) | cloud service, education |
-| [dishcraft](https://dishcraft.com/) |
+| [dishcraft](https://dishcraft.com/) | restaurants, rack |
 
 ## License
 
