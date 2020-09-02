@@ -30,6 +30,9 @@ A curated list of robotics companies
 | [pilohealth](https://pillohealth.com/) | pharmacy |
 | [No Isolation](https://www.noisolation.com/global/) | mental health |
 | [Skydio](https://www.skydio.com/) | filming, drone |
+| [Jibo](https://www.jibo.com/) | personal |
+| [Mayfield Robotics](http://www.mayfieldrobotics.com/) | personal |
+| [Anki](https://www.anki.com/en-us/cozmo.html)	| personal, toy |
 | [wonder workshop](https://www.makewonder.com/) | education, toy |
 | [KNIGHTSCOPE](https://invest.knightscope.com) | security, mobile |
 | [LOWE'S INNOVATION LABS](https://www.lowesinnovationlabs.com/robotics) | retail, mobile |
@@ -52,7 +55,7 @@ A curated list of robotics companies
 | [AWS RoboMaker](https://aws.amazon.com/robomaker/) | cloud service |
 | [SEMIO](https://semio.ai/) | entertainment, interactive robots |
 | [InOrbit](https://www.inorbit.ai/) | cloud service |
-| [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) | cloud service, education |
+| [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) | education, cloud service |
 | [dishcraft](https://dishcraft.com/) | restaurants, rack |
 | [Bright Machines](https://www.brightmachines.com/) | warehouse, manipulation service |
 | [KINDRED](https://www.kindred.ai/) | warehouse, manipulation service |
@@ -80,6 +83,7 @@ A curated list of robotics companies
 - [TrackEx](https://trackex.com/)
 - [C3.ai](https://c3.ai/)
 - [Outreach](https://www.outreach.io/)
+- [Lark Health](https://www.lark.com/)
 
 ## NOCODE
 
