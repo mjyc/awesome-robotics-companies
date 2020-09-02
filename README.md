@@ -33,6 +33,8 @@ A curated list of robotics companies
 | [Jibo](https://www.jibo.com/) | personal |
 | [Mayfield Robotics](http://www.mayfieldrobotics.com/) | personal |
 | [Anki](https://www.anki.com/en-us/cozmo.html)	| personal, toy |
+| [ROYBI](https://roybirobot.com/) | education, toy |
+| [No Isolation](https://www.noisolation.com/global/) | education, toy |
 | [wonder workshop](https://www.makewonder.com/) | education, toy |
 | [KNIGHTSCOPE](https://invest.knightscope.com) | security, mobile |
 | [LOWE'S INNOVATION LABS](https://www.lowesinnovationlabs.com/robotics) | retail, mobile |
