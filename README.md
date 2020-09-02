@@ -54,6 +54,9 @@ A curated list of robotics companies
 | [InOrbit](https://www.inorbit.ai/) | cloud service |
 | [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) | cloud service, education |
 | [dishcraft](https://dishcraft.com/) | restaurants, rack |
+| [Bright Machines](https://www.brightmachines.com/) | warehouse, manipulation |
+| [KINDRED](https://www.kindred.ai/ | warehouse, manipulation service |
+| [LANDING AI](https://landing.ai/ | warehouse, manipulation service |
 
 ## License
 
