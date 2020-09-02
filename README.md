@@ -62,7 +62,7 @@ A curated list of robotics companies
 | [Bright Machines](https://www.brightmachines.com/) | warehouse, manipulation service |
 | [KINDRED](https://www.kindred.ai/) | warehouse, manipulation service |
 | [LANDING AI](https://landing.ai/) | warehouse, manipulation service |
-| [A list of disinfection robot companies](https://luminrobotics.com/companies/) | disinfection robots |
+| [A list of disinfection robot companies](https://luminrobotics.com/companies/) | disinfection service |
 
 ## Internet of Things (IoT)
 
