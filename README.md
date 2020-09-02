@@ -54,9 +54,45 @@ A curated list of robotics companies
 | [InOrbit](https://www.inorbit.ai/) | cloud service |
 | [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) | cloud service, education |
 | [dishcraft](https://dishcraft.com/) | restaurants, rack |
-| [Bright Machines](https://www.brightmachines.com/) | warehouse, manipulation |
+| [Bright Machines](https://www.brightmachines.com/) | warehouse, manipulation service |
 | [KINDRED](https://www.kindred.ai/) | warehouse, manipulation service |
 | [LANDING AI](https://landing.ai/) | warehouse, manipulation service |
+
+## Internet of Things (IoT)
+
+- [wyze](https://wyze.com/)
+- [CASPAR](https://caspar.ai/)
+- [SmartRent](https://smartrent.com/)
+- [google](home, nest	https://madeby.google.com/home/)
+- [alexa](devices	https://alexa.amazon.com/)
+- [facebook](portal	https://portal.facebook.com/)
+- [SimplySafe](https://simplisafe.com)
+- [ring](https://ring.com/)
+- [mirror](https://www.mirror.co/)
+- [peloton](https://www.onepeloton.com/)
+- samsung electronics
+
+## Robotic Process Automation
+
+- [UiPath](https://www.uipath.com/)
+- [Fluke Corporation](https://www.fluke.com/)
+- [trackx](https://trackx.com/)
+- [TrackEx](https://trackex.com/)
+- [C3.ai](https://c3.ai/)
+- [Outreach](https://www.outreach.io/)
+
+## NOCODE
+
+- https://www.nocode.tech
+- https://nocodelist.co/
+- https://bubble.io/
+- https://webflow.com/
+- https://www.modulz.app/
+- https://www.visly.app/
+- https://reactstudio.com/
+- https://www.framer.com/
+- https://www.pega.com/
+- https://www.honeycode.aws/
 
 ## License
 
