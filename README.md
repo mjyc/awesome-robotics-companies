@@ -69,14 +69,13 @@ A curated list of robotics companies
 - [wyze](https://wyze.com/)
 - [CASPAR](https://caspar.ai/)
 - [SmartRent](https://smartrent.com/)
-- [google](home, nest	https://madeby.google.com/home/)
-- [alexa](devices	https://alexa.amazon.com/)
-- [facebook](portal	https://portal.facebook.com/)
+- [Google Assistant](https://assistant.google.com/)
+- [Amazon Alexa](https://alexa.amazon.com/)
+- [facebook portal](https://portal.facebook.com/)
 - [SimplySafe](https://simplisafe.com)
 - [ring](https://ring.com/)
 - [mirror](https://www.mirror.co/)
 - [peloton](https://www.onepeloton.com/)
-- samsung electronics
 
 ## Robotic Process Automation
 
